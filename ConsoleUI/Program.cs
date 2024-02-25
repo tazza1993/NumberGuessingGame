@@ -1,4 +1,5 @@
-﻿var random = new Random();
+﻿//number guessing app
+var random = new Random();
 const int minGuess = 1;
 const int maxGuess = 100;
 
